@@ -5,6 +5,7 @@ unless the assignment sheet tells you to.
 """
 
 GREETING = "Shalom from Power Tech"
+VERSION = "1.0"
 
 def greet(name):
     """Return a greeting for the given name."""
