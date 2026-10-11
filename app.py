@@ -7,6 +7,9 @@ unless the assignment sheet tells you to.
 GREETING = "Shalom"
 VERSION = "0.1"
 
+def farewell(name):
+    """Return a farewell message for the given name."""
+    return f"Goodbye, {name}!"
 
 def greet(name):
     """Return a greeting for the given name."""
